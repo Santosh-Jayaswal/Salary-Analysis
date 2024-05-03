@@ -1,1 +1,2 @@
-# Salary-Analysis
+### Key Insights
+1)  Talent Hotspots: HR professional can focus their hiring efforts on areas with lots of jobs by knowing that the US has a lot of big companies that offer data-related jobs. They can make strategic partnerships with local universities that offer data science programs and set up internship programs to help her business find new employees. This proactive approach helps them hire skilled data scientists and support the growth of the data analytics team in their company.
