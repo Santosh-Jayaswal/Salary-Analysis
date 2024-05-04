@@ -1,3 +1,5 @@
+# Data Scientist Salary Report
+
 ### Project Overview
 This project uses a dataset downloaded from Kaggle, containing salary information for various data science roles, including job title, employment type, and country location. The project's aims is to help HR professionals make smart choices about hiring, planning pay, and managing their teams in their own companies. By using SQL queries to look at the dataset, the project learns useful things about salary trends, people's preferences for working from home, and part-time job openings in the data science field for a range of job types and locations. These insights give HR workers the tools they need to improve how they hire people, make sure they're paid fairly, and attract the best employees, all of which help their companies succeed and run more smoothly.
 
