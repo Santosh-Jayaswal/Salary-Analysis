@@ -12,11 +12,11 @@ This project uses a dataset downloaded from Kaggle, containing salary informatio
 
 2)  **Salary Insights**: When HR professionals know the average salaries for different managerial roles in data-related fields, they can better decide who to hire and how to develop their talent. For instance, they might see that the Analytics Engineering Manager role is a top job in this area, with an average salary of $399,880. They could also find that the average pay for a Data Quality Manager is lower than expected, at $59,059. Because they understand how crucial this job is for data security, they can use this chance to invest in keeping their existing talent in this role.
 
-          ![2](https://github.com/Santosh-Jayaswal/Salary-Analysis/assets/17638311/27f4be68-8177-4a83-a584-df58a3787d73)
+![2](https://github.com/Santosh-Jayaswal/Salary-Analysis/assets/17638311/27f4be68-8177-4a83-a584-df58a3787d73)
 
 3)  **Job Title Compensation**: To make sure everyone gets paid fairly, HR professionals need to know how salaries change for people with different levels of experience in a certain job title. For example, a skilled worker might make $198,550 a year, while a new engineer might make $110,718. With this knowledge, HR can make career paths for employees at different stages of their professional journey.
 
-          ![3](https://github.com/Santosh-Jayaswal/Salary-Analysis/assets/17638311/ed1a903c-265b-4bd5-b3cb-6e53caa3ba70)
+![3](https://github.com/Santosh-Jayaswal/Salary-Analysis/assets/17638311/ed1a903c-265b-4bd5-b3cb-6e53caa3ba70)
 
 4)  **Geographic Salary Comparisons**: This comprehensive list offers valuable insights to HR professionals because it shows when average salaries in certain countries are higher than the overall market average. For example, an AI Architect in Canada earns an average of $800,000. This data helps HR understand the importance of offering competitive pay to attract top talent in specialized fields, ensuring employees are effective across various roles and locations.
 5)  **Remote Work Preference**: This information helps HR professional to figure out which jobs would be best for people who work from home suhc as Data Engineers, Data Scientists, and Data Analysts. With this insights, HR create remote work policies that match employee preferences. They can also use this data to hire and retain talent better. HR can better plan their staff by knowing which jobs would benefit from working from home. Giving workers the choice to work from home can make them happier and increase their productivity.
