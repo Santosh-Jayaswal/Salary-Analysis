@@ -6,7 +6,7 @@ This project uses a dataset downloaded from Kaggle, containing salary informatio
 ### Key Insights
 1)  **Talent Hotspots**: HR professional can focus their hiring efforts on areas with lots of jobs by knowing that the US has a lot of big companies that offer data-related jobs. They can make strategic partnerships with local universities that offer data science programs and set up internship programs to help her business find new employees. This proactive approach helps them hire skilled data scientists and support the growth of the data analytics team in their company.
 
-          ![1](https://github.com/Santosh-Jayaswal/Salary-Analysis/assets/17638311/5426feb2-cedc-464d-99c8-0397bd487c7d)
+          !https://github.com/Santosh-Jayaswal/Salary-Analysis/assets/17638311/5426feb2-cedc-464d-99c8-0397bd487c7d
 
 
 2)  **Salary Insights**: When HR professionals know the average salaries for different managerial roles in data-related fields, they can better decide who to hire and how to develop their talent. For instance, they might see that the Analytics Engineering Manager role is a top job in this area, with an average salary of $399,880. They could also find that the average pay for a Data Quality Manager is lower than expected, at $59,059. Because they understand how crucial this job is for data security, they can use this chance to invest in keeping their existing talent in this role.
