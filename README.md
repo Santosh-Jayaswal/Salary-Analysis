@@ -23,4 +23,8 @@ This project uses a dataset downloaded from Kaggle, containing salary informatio
 ![5](https://github.com/Santosh-Jayaswal/Salary-Analysis/assets/17638311/39b9425d-9330-4039-a571-31cf3180c875)
 
 8)  **Salary Growth Trends**: These finding highlights that there are some job titles whose average pay have been incresing consistenly over the last three years. For instance, the "Head of Machine Learning" position, which will pay an average of $376,000 in 2024 compared to $76,309 in 2022. Job titles like "Head of Data," "Research Scientist," "Research Engineer," and "Machine Learning Scientist" also saw big pay raises during this time. This information can help HR professionals understand how salaries are changing which enable them to adjust compensation strategies to attract and retain talent effectively.
-9)  **Optimizing Compensation**: Understanding the average salaries for different data-related roles in the country with the most part-time job opportunities helps HR professionals offer competitive compensation packages. This ensures that the packages they offer are in line with industry standards and attractive enough to bring in top talent. Ultimately, this contributes to the company's success in hiring skilled part-time employees for data-related roles.
+
+![6](https://github.com/Santosh-Jayaswal/Salary-Analysis/assets/17638311/f62357f1-0867-4858-82da-2a40f7230940)
+
+
+10)  **Optimizing Compensation**: Understanding the average salaries for different data-related roles in the country with the most part-time job opportunities helps HR professionals offer competitive compensation packages. This ensures that the packages they offer are in line with industry standards and attractive enough to bring in top talent. Ultimately, this contributes to the company's success in hiring skilled part-time employees for data-related roles.
