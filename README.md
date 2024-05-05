@@ -29,3 +29,6 @@ This project uses a dataset downloaded from Kaggle, containing salary informatio
 
 
 7)  **Optimizing Compensation**: Understanding the average salaries for different data-related roles in the country with the most part-time job opportunities helps HR professionals offer competitive compensation packages. This ensures that the packages they offer are in line with industry standards and attractive enough to bring in top talent. Ultimately, this contributes to the company's success in hiring skilled part-time employees for data-related roles.
+
+![7](https://github.com/Santosh-Jayaswal/Salary-Analysis/assets/17638311/8eb96f03-3adc-47a1-9fee-7972569076ea)
+
